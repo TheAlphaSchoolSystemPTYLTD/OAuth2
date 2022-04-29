@@ -1,9 +1,11 @@
 # OAuth2
 
 ```
-  flowchart outlining the authentication process using OAuth2.0 and PKCE security
-![image](https://user-images.githubusercontent.com/46773099/165877518-8832a71c-a900-441a-a7df-216eb4f1fe85.png)
+  Any Notes Goes Here
 ```
+
+**flowchart outlining the authentication process using OAuth2.0 and PKCE security**
+![image](https://user-images.githubusercontent.com/46773099/165877623-d82203d1-46e5-40f3-8faa-5e195a6045b3.png)
 
 **Methods**
 
