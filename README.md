@@ -1,12 +1,9 @@
 # OAuth2
 
 ```
-  NB: Deep Linking API does not form part of the general TASS API framework.
-  As such, it does not require the Encrypted Tokenisation outlined in the API Introduction
-```
-
-**flowchart outlining the authentication process using OAuth2.0 and PKCE security**
+  flowchart outlining the authentication process using OAuth2.0 and PKCE security
 ![image](https://user-images.githubusercontent.com/46773099/165877518-8832a71c-a900-441a-a7df-216eb4f1fe85.png)
+```
 
 **Methods**
 
