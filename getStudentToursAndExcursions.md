@@ -2,10 +2,6 @@
 ----
 Retrieve Tours and Excursions basic information based specified on student.
 
-* **Version:**
-
-  2
-
 * **Method:**
 
   `GET | POST`

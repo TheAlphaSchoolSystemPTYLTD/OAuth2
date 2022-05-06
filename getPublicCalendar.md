@@ -1,19 +1,7 @@
 **getPublicCalendar**
 ----
   Returns the Public Calendar in JSON format.
-
-* **Version History:**
-
-  TASS v48 - Method Added
   
-  TASS v49.7.035 - Added category return data. Allowed multiple Category filter
-  
-  TASS v50.0.000 - Added campus_code and year_groups to return. (If year_groups is empty object `{}` it is assumed the event belongs to all year groups.
-     
-* **Version:**
-
-  2
-
 * **Method:**
 
   `GET | POST`

@@ -2,10 +2,6 @@
 ----
 Return a fully qualified Deep Link URL based on the supplied Deep Link JSON packet.
 
-* **Version:**
-
-  2
-
 * **Method:**
 
   `GET | POST`

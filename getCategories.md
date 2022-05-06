@@ -2,10 +2,6 @@
 ----
   Returns the Event Categories in JSON format.
 
-* **Version:**
-
-  2
-
 * **Method:**
 
   `GET | POST`

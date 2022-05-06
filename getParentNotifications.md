@@ -1,10 +1,6 @@
-**getNotifications**
+**getParentNotifications**
 ----
 Retrieve parent Notifications and Notification history.
-
-* **Version:**
-
-	2
 
 * **Method:**
 
@@ -72,14 +68,14 @@ Retrieve parent Notifications and Notification history.
 * **Sample GET:** (With URL Encoded `token`)
 
 	```HTML
-		http://api.tasscloud.com.au/tassweb/api/?method=getNotifications&appcode=DEMOAPP&company=10&v=2&token=E6DhrZNz2oXAomF1CG8OIIzti2DNIZOVJBI1%2FKyH5bEKcgZy6UGNbjnvJAK4cYI7DJDUXQ7YreSFKTCwsJGp%2Bg%3D%3D&authtoken=2B5EFD5C-E9F8-EF28-94FA66492E10A1C9&authentity=parent
+		http://api.tasscloud.com.au/tassweb/api/?method=getParentNotifications&appcode=DEMOAPP&company=10&v=2&token=E6DhrZNz2oXAomF1CG8OIIzti2DNIZOVJBI1%2FKyH5bEKcgZy6UGNbjnvJAK4cYI7DJDUXQ7YreSFKTCwsJGp%2Bg%3D%3D&authtoken=2B5EFD5C-E9F8-EF28-94FA66492E10A1C9&authentity=parent
 	```
 	
 * **Sample POST:**
 
 	```HTML
 		<form id="postForm" name="postForm" method="POST" action="http://api.tasscloud.com.au/tassweb/api/">
-			<input type="hidden" name="method" value="getNotifications">
+			<input type="hidden" name="method" value="getParentNotifications">
 			<input type="hidden" name="appcode" value="DEMOAPP">
 			<input type="hidden" name="company" value="10">
 			<input type="hidden" name="v" value="2">

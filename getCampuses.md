@@ -2,10 +2,6 @@
 ----
   Returns the School Campuses in JSON format.
 
-* **Version:**
-
-  2
-
 * **Method:**
 
   `GET | POST`

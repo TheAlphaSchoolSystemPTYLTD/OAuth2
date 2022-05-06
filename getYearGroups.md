@@ -2,10 +2,6 @@
 ----
   Returns the School Year Groups in JSON format.
 
-* **Version:**
-
-  2
-
 * **Method:**
 
   `GET | POST`

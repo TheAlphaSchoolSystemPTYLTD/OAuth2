@@ -2,10 +2,6 @@
 ----
 Retrieve Student EDiary feed based on specified student.
 
-* **Version:**
-
-	2
-
 * **Method:**
 
 	`GET | POST`

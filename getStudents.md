@@ -2,10 +2,6 @@
 ----
 Retrieve array of Students belonging to authenticated Parent.
 
-* **Version:**
-
-	2
-
 * **Method:**
 
 	`GET | POST`

@@ -2,14 +2,6 @@
 ----
 Retrieve School Calendar feed based on authenticated parent with one or many students.
 
-* **Version History:**
-
-  TASS v50.0.000 - Added campus_code and year_groups to return. (If year_groups is empty object `{}` it is assumed the event belongs to all year groups.
-
-* **Version:**
-
-	2
-
 * **Method:**
 
 	`GET | POST`
