@@ -1,4 +1,4 @@
-**getCategories**
+**getCalendarCategories**
 ----
   Returns the Event Categories in JSON format.
 
@@ -92,14 +92,14 @@
 * **Sample GET:** (With URL Encoded `token`)
 
   ```HTML
-    http://api.tasscloud.com.au/tassweb/api/?method=getCategories&appcode=DEMOCAL&company=10&v=2&token=nb3QZurfruc1oEsFRAHeUFij5yf8M7mzO1vPmh7giNc%3D
+    http://api.tasscloud.com.au/tassweb/api/?method=getCalendarCategories&appcode=DEMOCAL&company=10&v=2&token=nb3QZurfruc1oEsFRAHeUFij5yf8M7mzO1vPmh7giNc%3D
   ```
   
 * **Sample POST:**
 
   ```HTML
     <form id="postForm" name="postForm" method="POST" action="http://api.tasscloud.com.au/tassweb/api/">
-      <input type="hidden" name="method" value="getCategories">
+      <input type="hidden" name="method" value="getCalendarCategories">
       <input type="hidden" name="appcode" value="DEMOCAL">
       <input type="hidden" name="company" value="10">
       <input type="hidden" name="v" value="2">
