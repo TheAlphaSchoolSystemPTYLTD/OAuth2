@@ -1,4 +1,4 @@
-**getCampuses**
+**getSchoolCampuses**
 ----
   Returns the School Campuses in JSON format.
 
